@@ -3,7 +3,8 @@
 A responsive Flutter widget that creates a dynamic, collapsible app bar with customizable scroll behavior.
 
 ## Screenshot
-![SliverAppBar Demo Screenshot](screenshot.png)
+
+![image](https://github.com/user-attachments/assets/ef7d3a11-a14c-4971-876b-65cbef731878)
 
 ## How to Run
 1. Clone this repository
